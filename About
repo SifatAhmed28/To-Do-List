@@ -1,0 +1,35 @@
+Description:
+This Java Swing-based ToDo List application provides users with a simple and intuitive
+interface to manage their daily tasks. The application includes a login feature for secure 
+access and a main dashboard where users can add tasks, mark them as completed, set task deadlines,
+and clear finished tasks. The UI is designed with a pleasant color scheme for a visually appealing
+experience.
+
+
+Key Features:
+
+Login System: Secure user authentication with a username and password.
+Task Management: Add, mark as done, and set deadlines for tasks.
+Dynamic Lists: Tasks are displayed in a dynamic list with automatic indexing.
+Clear Finished Tasks: Easily remove completed tasks to keep the list organized.
+TitleBar: Welcoming title bar at the top of the main window.
+
+
+How to Use:
+
+Run the application and log in with the provided credentials.
+Use the "Add Task" button to create new tasks.
+Mark tasks as done by clicking the "Done" button.
+Set deadlines for tasks using the "Set Time" button.
+Clear finished tasks with the "Clear finished tasks" button.
+
+
+Dependencies:
+
+Java Swing Library
+Contributing:
+Contributions are welcome! Feel free to fork the repository, make improvements, and create pull requests. Bug reports and feature requests can be submitted through the GitHub issues page.
+
+
+Author:
+Sifat Ahmed
